@@ -22,5 +22,7 @@ while game_is_on:
     car.move()
 
 
+# test
+
 
 screen.exitonclick()
