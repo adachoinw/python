@@ -7,8 +7,8 @@ from pprint import pprint
 time = input("Which year do you want to travel to? Type the date in this format YYYY-MM-DD: ")
 
 URL = f"https://www.billboard.com/charts/hot-100/{time}/"
-CLIENT_ID = "9154920e2b6041388c46d9ea1cd2aa97"
-CLIENT_SECRET = "3dc77e8c3f5d4f90961c9ef7af29a034"
+CLIENT_ID = "CLIENT ID"
+CLIENT_SECRET = "SECRET"
 REDIRECT_URI = "http://localhost:8888/callback"
 
 response = requests.get(URL)
@@ -49,4 +49,4 @@ for song in title_list:
 
 new_playlist = sp.user_playlist_create(user=user_id, name=f"{time} Billboard 100", public=False)
 # print(new_playlist)
-sp.playlist_add_items(playlist_id=new_playlist, items=song_uris, position=None)
+sp.playlist_add_items(playlist_id=new_playlist["id"], items=song_uris, position=None)
