@@ -1,0 +1,439 @@
+1661854623641	geckodriver	INFO	Listening on 127.0.0.1:62273
+1661854626685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62274" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofilecWsiu1"
+1661854627014	Marionette	INFO	Marionette enabled
+1661854627019	Marionette	INFO	Listening on port 62284
+WebDriver BiDi listening on ws://localhost:62274
+Read port: 62284
+1661854627264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofilecWsiu1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62274/devtools/browser/915cc7cc-fd00-48f2-9c41-eaf096334349
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth624622&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 6271 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth624622&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 3924 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661854644769	Marionette	INFO	Stopped listening on port 62284
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661855015084	geckodriver	INFO	Listening on 127.0.0.1:63337
+1661855018118	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63338" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofileYuKpL6"
+1661855018410	Marionette	INFO	Marionette enabled
+1661855018415	Marionette	INFO	Listening on port 63352
+WebDriver BiDi listening on ws://localhost:63338
+Read port: 63352
+1661855018494	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofileYuKpL6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63338/devtools/browser/4ad70796-c747-4ae1-b5c7-636bfab20724
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth801344&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 3928 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth801344&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 1094 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1661855325482	Marionette	INFO	Stopped listening on port 63352
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ port 63692
+WebDriver BiDi listening on ws://localhost:63682
+Read port: 63692
+1661855108507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofileacPP8E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63682/devtools/browser/a4db2203-9aa6-4067-95e7-fcd7e4e864b2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth576011&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 5291 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth576011&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 6278 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661855323018	Marionette	INFO	Stopped listening on port 63692
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63764" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofile6VLmWI"
+1661855141332	Marionette	INFO	Marionette enabled
+1661855141336	Marionette	INFO	Listening on port 63775
+WebDriver BiDi listening on ws://localhost:63764
+Read port: 63775
+1661855141416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofile6VLmWI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63764/devtools/browser/ffc1b847-d0b8-42e4-b1d0-247642bdfa4d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth668878&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 859 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth668878&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 1129 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1661855321270	Marionette	INFO	Stopped listening on port 63775
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ port 52993
+WebDriver BiDi listening on ws://localhost:63886
+Read port: 52993
+1661855207692	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofileWlE4zS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63886/devtools/browser/793ce4df-6ba4-41f6-a7ea-85082af590c8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth119454&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 7404 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth119454&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 5222 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1661855319530	Marionette	INFO	Stopped listening on port 52993
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661855375166	geckodriver	INFO	Listening on 127.0.0.1:53283
+1661855378205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53284" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofilezXwate"
+1661855378503	Marionette	INFO	Marionette enabled
+1661855378507	Marionette	INFO	Listening on port 53295
+WebDriver BiDi listening on ws://localhost:53284
+Read port: 53295
+1661855378588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofilezXwate\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53284/devtools/browser/e2009456-6aab-4b8b-9577-de885c86daa4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth445924&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 2719 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth445924&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 913 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1661855509935	Marionette	INFO	Stopped listening on port 53295
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 34132, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 34132, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661855522201	geckodriver	INFO	Listening on 127.0.0.1:53496
+1661855525233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53497" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofile5qedpH"
+1661855525520	Marionette	INFO	Marionette enabled
+1661855525524	Marionette	INFO	Listening on port 53507
+WebDriver BiDi listening on ws://localhost:53497
+Read port: 53507
+1661855525604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofile5qedpH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53497/devtools/browser/818a854b-0b7e-4a73-a27f-fcd43b4c1880
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth115246&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 5350 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth115246&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 5745 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1661855571560	Marionette	INFO	Stopped listening on port 53507
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 33096, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661855574176	geckodriver	INFO	Listening on 127.0.0.1:53592
+1661855577221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53593" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofilevfDWRR"
+1661855577502	Marionette	INFO	Marionette enabled
+1661855577506	Marionette	INFO	Listening on port 53604
+WebDriver BiDi listening on ws://localhost:53593
+Read port: 53604
+1661855577590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofilevfDWRR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53593/devtools/browser/78348fa4-6ca1-426c-83c5-f2c9c45123a1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth195003&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 3720 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth195003&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 1165 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1661855589962	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1661855626644	Marionette	INFO	Stopped listening on port 53604
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 14664, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661855913781	geckodriver	INFO	Listening on 127.0.0.1:53897
+1661855916825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53898" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofiled06XIg"
+1661855917118	Marionette	INFO	Marionette enabled
+1661855917123	Marionette	INFO	Listening on port 53911
+WebDriver BiDi listening on ws://localhost:53898
+Read port: 53911
+1661855917204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofiled06XIg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53898/devtools/browser/2a13d708-1c3b-4f4b-bd22-62073e93f903
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth969482&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 7322 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth969482&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 2686 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1661855929668	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1661856114370	Marionette	INFO	Stopped listening on port 53911
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54125" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofileOWpSyn"
+1661856081441	Marionette	INFO	Marionette enabled
+1661856081445	Marionette	INFO	Listening on port 54135
+WebDriver BiDi listening on ws://localhost:54125
+Read port: 54135
+1661856081553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofileOWpSyn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54125/devtools/browser/767d8efa-2202-47b7-a492-b144fd4343eb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth878018&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 281 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth878018&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 280 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1661856093907	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1661856111872	Marionette	INFO	Stopped listening on port 54135
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 6272, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661907767115	geckodriver	INFO	Listening on 127.0.0.1:56064
+1661907770154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56065" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofilessLb5v"
+1661907770469	Marionette	INFO	Marionette enabled
+1661907770474	Marionette	INFO	Listening on port 56076
+WebDriver BiDi listening on ws://localhost:56065
+Read port: 56076
+1661907770557	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofilessLb5v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56065/devtools/browser/209fab35-7eb2-4c89-957d-b4fc4a485e2c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth988911&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 558 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth988911&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 5848 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1661907783408	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1661908072264	Marionette	INFO	Stopped listening on port 56076
+[Parent 35240, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661908073549	geckodriver	INFO	Listening on 127.0.0.1:56602
+1661908076596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56603" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofilees2rnX"
+1661908076952	Marionette	INFO	Marionette enabled
+1661908076957	Marionette	INFO	Listening on port 56620
+WebDriver BiDi listening on ws://localhost:56603
+Read port: 56620
+1661908077160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofilees2rnX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56603/devtools/browser/e62868fb-1d7b-4ecf-ae00-14ab4e71a0b4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth67401&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 5103 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth67401&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 6946 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1661908095123	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1661908998519	Marionette	INFO	Stopped listening on port 56620
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56708" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofileFd2u7G"
+1661908124300	Marionette	INFO	Marionette enabled
+1661908124305	Marionette	INFO	Listening on port 56723
+WebDriver BiDi listening on ws://localhost:56708
+Read port: 56723
+1661908124390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofileFd2u7G\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56708/devtools/browser/e87b94f2-0953-478e-a495-6e4366b435d5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth290293&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 3612 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth290293&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 7409 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1661908137235	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 708: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 708: WebGL context was lost.
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 832: TypeError: node.getAttribute is not a function
+1661908997734	Marionette	INFO	Stopped listening on port 56723
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 37272, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661909000756	geckodriver	INFO	Listening on 127.0.0.1:58166
+1661909003813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58167" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofile2aWBWO"
+1661909004116	Marionette	INFO	Marionette enabled
+1661909004120	Marionette	INFO	Listening on port 58179
+WebDriver BiDi listening on ws://localhost:58167
+Read port: 58179
+1661909004202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofile2aWBWO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58167/devtools/browser/775c09fe-221d-4538-a9d9-aad2c3c242b0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth77599&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 1735 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth77599&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 5097 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1661909016664	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1661909028202	Marionette	INFO	Stopped listening on port 58179
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 37400, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661909035462	geckodriver	INFO	Listening on 127.0.0.1:58300
+1661909038491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58301" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofilez1BHUh"
+1661909038790	Marionette	INFO	Marionette enabled
+1661909038795	Marionette	INFO	Listening on port 58312
+WebDriver BiDi listening on ws://localhost:58301
+Read port: 58312
+1661909038885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofilez1BHUh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58301/devtools/browser/e5fd136d-8307-4df2-9211-93cc6603b668
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth305603&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 1477 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth305603&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 7068 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1661909051414	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1661910692122	Marionette	INFO	Stopped listening on port 58312
+\\rust_mozprofileM4gOeu"
+1661909474308	Marionette	INFO	Marionette enabled
+1661909474312	Marionette	INFO	Listening on port 59035
+WebDriver BiDi listening on ws://localhost:59024
+Read port: 59035
+1661909474399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofileM4gOeu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59024/devtools/browser/09968bb8-1bdd-4971-b70b-2305d31e321b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth6859&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 4606 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth6859&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 4182 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1661909486887	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 569))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal4294967298/pagestyle23 (resource://devtools/server/actors/page-style.js:569:5)", "resource://devtools/shared/protocol/Front.js", 376))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1661910691431	Marionette	INFO	Stopped listening on port 59035
+alm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 4437 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth756731&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 6764 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1661909943678	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1661909958439	Marionette	INFO	Stopped listening on port 54685
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 27608, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661910051109	geckodriver	INFO	Listening on 127.0.0.1:62301
+1661910054165	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62302" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofile1TMWev"
+1661910054473	Marionette	INFO	Marionette enabled
+1661910054478	Marionette	INFO	Listening on port 62313
+WebDriver BiDi listening on ws://localhost:62302
+Read port: 62313
+1661910054564	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofile1TMWev\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62302/devtools/browser/6814d689-56e3-4797-9d82-caa5c12a974c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth466547&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 7351 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth466547&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 1806 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1661910067204	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1661910374133	Marionette	INFO	Stopped listening on port 62313
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 17252, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661910693803	geckodriver	INFO	Listening on 127.0.0.1:63943
+1661910696824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63944" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofileV5IbxD"
+1661910697136	Marionette	INFO	Marionette enabled
+1661910697140	Marionette	INFO	Listening on port 63955
+WebDriver BiDi listening on ws://localhost:63944
+Read port: 63955
+1661910697228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofileV5IbxD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63944/devtools/browser/236f856b-f42d-4191-9ff4-b985084f0474
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth787650&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 7581 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth787650&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 4089 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1661910709735	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1661910747638	geckodriver	INFO	Listening on 127.0.0.1:64092
+1661910750684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64093" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofile0nc8rb"
+1661910751005	Marionette	INFO	Marionette enabled
+1661910751009	Marionette	INFO	Listening on port 64104
+WebDriver BiDi listening on ws://localhost:64093
+Read port: 64104
+1661910751100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofile0nc8rb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64093/devtools/browser/762ed8ed-521c-4231-8ff9-86df75eca5e6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth791454&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 4227 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth791454&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 7004 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1661910763662	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1661910770486	Marionette	INFO	Stopped listening on port 64104
+[Parent 36480, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661910776730	geckodriver	INFO	Listening on 127.0.0.1:64213
+1661910779772	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64214" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofileFLgP1L"
+1661910780089	Marionette	INFO	Marionette enabled
+1661910780093	Marionette	INFO	Listening on port 64226
+Read port: 64226
+WebDriver BiDi listening on ws://localhost:64214
+1661910780184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofileFLgP1L\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64214/devtools/browser/7eee85d0-2b93-4dfe-a600-ec01c13db427
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth760294&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 4614 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth760294&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 3388 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1661910792897	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1661910804424	Marionette	INFO	Stopped listening on port 64226
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 37100, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661910828992	geckodriver	INFO	Listening on 127.0.0.1:64373
+1661910832030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64374" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofileYyEFez"
+1661910832360	Marionette	INFO	Marionette enabled
+1661910832365	Marionette	INFO	Listening on port 64384
+Read port: 64384
+WebDriver BiDi listening on ws://localhost:64374
+1661910832470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofileYyEFez\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64374/devtools/browser/8b1624b5-576b-4c03-a280-64652069aef3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth972302&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 7630 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth972302&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 2888 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1661910844972	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1661910853197	Marionette	INFO	Stopped listening on port 64384
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 24912, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661910894976	geckodriver	INFO	Listening on 127.0.0.1:64511
+1661910898023	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64512" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofiletbLeQ1"
+1661910898325	Marionette	INFO	Marionette enabled
+1661910898331	Marionette	INFO	Listening on port 64538
+WebDriver BiDi listening on ws://localhost:64512
+Read port: 64538
+1661910898417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wasab\\AppData\\Local\\Temp\\rust_mozprofiletbLeQ1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64512/devtools/browser/bcc0b5be-ccff-4bcb-a631-1b1dd6bb061a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth428970&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 7674 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Ftinder.com%3Fid%3Dauth428970&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=230402993429-g4nobau40t3v3j0tvqto4j8f35kil4hf.apps.googleusercontent.com&ss_domain=https%3A%2F%2Ftinder.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 3944 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1661910910916	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1661910928935	Marionette	INFO	Stopped listening on port 64538
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 25324, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
